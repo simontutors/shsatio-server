@@ -1,3 +1,3 @@
 # shsatio-server
 
-Mongo
+Mongs
