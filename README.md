@@ -1,3 +1,0 @@
-# shsatio-server
-
-Mongs
